@@ -8,5 +8,5 @@ The software is used to calculate the risk score for survival. In the Abyssal Wo
 - hazards.csv
 
 ### How to run it
-Step 1: clone or download the code
+Step 1: clone or download the code</br>
 Step 2: run src/cli.py in your IDE (VSCode)
